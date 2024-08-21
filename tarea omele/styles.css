@@ -1,0 +1,46 @@
+
+body {
+    background-image: url('omele.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+}
+
+header {
+    
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 19%;
+    
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+}
+
+h1 {
+    margin: 0;
+    
+
+}
+
+.ingredients, .instructions {
+     padding: 1.5rem;
+    margin: 1rem;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgb(85, 13, 194);
+}
+
+ul, ol {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 0.5rem;
+}
+
